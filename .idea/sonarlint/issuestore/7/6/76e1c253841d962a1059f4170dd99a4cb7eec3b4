@@ -1,0 +1,8 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ñ¶ıÿÿÿÿ
+‰squid:UselessImportCheck"fRemove this unused import 'org.springframework.context.annotation.AnnotationConfigApplicationContext'.(€¡¹;
+‰squid:UselessImportCheck"eRemove this unused import 'com.stackroute.annotationbasedbeandefinitioninheritance.config.AppConfig'.(ˆ„„
+squid:UselessImportCheck"dRemove this unused import 'com.stackroute.annotationbasedbeandefinitioninheritance.domain.EPubBook'.(°½ÊÃÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø»†õ
